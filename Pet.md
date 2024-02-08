@@ -8,7 +8,7 @@ public String toString(){
 }
 }
 
-public class Dog inherts Pet{
+public class Dog extends Pet{
 
 private String breed;
 
